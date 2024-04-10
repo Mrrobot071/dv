@@ -9,7 +9,7 @@ html {
   }
   
   body {
-    background-color: black;
+    background-color: #black;
     font-family: var(--fonte-primaria);
     font-size: var(--fonte-normal);
   }
